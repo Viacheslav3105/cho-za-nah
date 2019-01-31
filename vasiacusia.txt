@@ -1,3 +1,0 @@
-print ("Hello? Vasia");
-print ("Hello? World!");
-מנזמזנזכ
